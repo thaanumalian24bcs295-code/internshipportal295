@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN
 
 This is a simple NodeJS + Express + React + MongoDB application. This application serves as a basic template for a mern applications.
@@ -42,3 +43,6 @@ Before running the application, make sure all dependencies are installed.
    `npm run dev` starts both server and client. If you want to start them separately, you can use following commands:
    - `npm run server`: to start server
    - `npm run client`: to start client
+=======
+# internshipportal295
+>>>>>>> 889b17353d0c92ac02e7f1ab602c48f946338b91
